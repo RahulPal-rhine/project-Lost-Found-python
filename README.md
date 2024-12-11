@@ -1,6 +1,6 @@
 # project-Lost&Found-python
 Python-based project to generate QR code for the data entered in Google form
-#Lost No More: Revolutionizing Crowd Control with Tech
+### Lost No More: Revolutionizing Crowd Control with Technology
 
 I'm excited to share my latest project 🚀 which aims to enhance safety and security at large-scale events.
 
