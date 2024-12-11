@@ -23,14 +23,28 @@ I developed a system that leverages technology to address this challenge:
 The Impact:
 By scanning the QR code, event organizers or anyone with a scanner in their phone📱 can quickly access vital information about the lost individual, enabling swift reunification with their family or guardians. 👨‍👩‍👧‍👦 This innovative solution not only enhances safety 🦺 but also provides peace of mind to attendees.🙏
 
-
-#STEPS
+------------------------------------------------------------------------------------------------
+# STEPS
 1️⃣ Fill out the Google form
+
+![google_form](https://github.com/user-attachments/assets/49600697-35fa-41c2-a924-f251435144b4)
+
 2️⃣ Responses will get stored in Google sheet
+
+![sheet](https://github.com/user-attachments/assets/a5f60dcd-0148-4a25-a846-4c56f08c1086)
+
 3️⃣ Fetching data from Google sheet into Python program through Google Sheet API
+
 4️⃣ Check if the data has been stored in MySQL Workbench database table to avoid duplication of the records through unique ID
+
+![mysql](https://github.com/user-attachments/assets/3529d9ff-31ad-4e91-9156-aceb8bd22e1c)
+
 5️⃣ After the running the python program, QR code in png format will be generated for each new records
+
 6️⃣ Scan the QR code to see if the data entered in the google form matches.
+
+![qrcode](https://github.com/user-attachments/assets/51bc40f7-e24e-49e9-adb8-e5bb36de8bda)
+
 
 #tech #innovation #python #google #mysql #qrcode #safety #security #crowdcontrol #eventmanagement #consistency 
 
