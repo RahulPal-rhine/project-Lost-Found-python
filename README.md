@@ -22,6 +22,8 @@ I developed a system that leverages technology to address this challenge:
 
 The Impact:
 By scanning the QR code, event organizers or anyone with a scanner in their phone📱 can quickly access vital information about the lost individual, enabling swift reunification with their family or guardians. 👨‍👩‍👧‍👦 This innovative solution not only enhances safety 🦺 but also provides peace of mind to attendees.🙏
+![ice-age-sid](https://github.com/user-attachments/assets/f2db413d-c1fb-43b9-8900-a73a28ad5e59)
+
 
 ------------------------------------------------------------------------------------------------
 # STEPS
