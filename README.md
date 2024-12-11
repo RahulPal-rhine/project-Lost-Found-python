@@ -13,8 +13,11 @@ I developed a system that leverages technology to address this challenge:
 ▶ Data Collection: A simple Google Form collects essential information from attendees, including name, age, contact details, and location.
 
 ▶ Data Storage: The collected data is automatically stored in a Google Sheet, ensuring efficient organization.
+
 ▶ Data Integration: Using Google Sheets API and Python, the data is extracted and inserted into a MySQL database, optimizing data accessibility and security.
+
 ▶ QR Code Generation: A unique QR code is generated for each attendee, linking to their specific information in the database.
+
 ▶ Wristband Integration: These QR codes can be printed on wristbands, worn by attendees for easy identification.
 
 The Impact:
